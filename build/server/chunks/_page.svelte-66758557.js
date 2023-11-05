@@ -1,0 +1,18 @@
+import { c as create_ssr_component } from './ssr-bcb86966.js';
+
+const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${$$result.head += `<!-- HEAD_svelte-18t3c8d_START -->${$$result.title = `<title>About - Josh Rehab</title>`, ""}<meta property="og:title" content="About"><meta name="description" content="Welcome to Josh Rehab – the place where we take a lighthearted approach to tackling a serious issue. Here at Josh Rehab, we've combined a unique blend of humor, camaraderie, and genuine support to create a one-of-a-kind parody drug addiction rehab experience."><meta property="og:description" content="Welcome to Josh Rehab – the place where we take a lighthearted approach to tackling a serious issue. Here at Josh Rehab, we've combined a unique blend of humor, camaraderie, and genuine support to create a one-of-a-kind parody drug addiction rehab experience."><!-- HEAD_svelte-18t3c8d_END -->`, ""}  <p class="svgLarge center" data-svelte-h="svelte-c6xh7d"><svg class="tablet"><use xlink:href="/assets/icons.svg#tablet"></use></svg> <svg class="bottle"><use xlink:href="/assets/icons.svg#bottle"></use></svg> <svg class="tablet"><use xlink:href="/assets/icons.svg#capsules"></use></svg> <svg class="weed"><use xlink:href="/assets/icons.svg#weed"></use></svg> <svg class="spoon"><use xlink:href="/assets/icons.svg#spoon"></use></svg> <svg class="tablet"><use xlink:href="/assets/icons.svg#needle"></use></svg></p> <h2 class="center" style="margin: 1.2rem auto;" data-svelte-h="svelte-hlmjlw">About Us</h2> <p class="aboutus" data-svelte-h="svelte-1xi40oi">Welcome to Josh Rehab – the place where we take a lighthearted approach to tackling a serious issue. Here at Josh Rehab, we&#39;ve combined a unique blend of humor, camaraderie, and genuine support to create a one-of-a-kind parody drug addiction rehab experience.
+    <br><br>
+    At Josh Rehab, we understand that the journey to recovery can be challenging, and sometimes, a little laughter can go a long way. Our mission is to provide an un-safe and un-welcoming space where individuals can embark on their path to further addiction while embracing their inner comedian.
+    <br><br>
+    Our &quot;treatment&quot; methods might raise an eyebrow or two, but rest assured, behind the humorous façade lies a deep commitment to helping you overcome addiction. Our team of &quot;recovery jesters&quot; is made up of experienced professionals who infuse evidence-based practices with a touch of wit. From &quot;pun therapy&quot; to &quot;stand-up sharing sessions,&quot; we&#39;ve got a variety of unconventional approaches to healing.
+    <br><br>
+    Picture this: therapy sessions that start with a punchline, support groups where laughter is the best medicine, and a 12-step program that&#39;s more like a 12-joke program. We believe that by fostering an environment of positivity, understanding, and joy, the path to recovery becomes a bit smoother, even if it involves a few comedic detours.
+    <br><br>
+    While we might not take ourselves too seriously, we take your recovery very seriously. Our tailored programs address the physical, emotional, and psychological aspects of addiction. Our goal is to equip you with the tools to face life&#39;s challenges head-on, all while sharing a chuckle or two along the way.
+    <br><br>
+    Join us at Josh Rehab and embrace the healing power of humor. Remember, life may be a punchline, but your journey to recovery is no joke. Let&#39;s laugh, learn, and grow – together.</p>`;
+});
+
+export { Page as default };
+//# sourceMappingURL=_page.svelte-66758557.js.map
